@@ -1,7 +1,8 @@
 body {
     background-color: #8da398e3;
     color: black;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Aclonica, sans-serif;
     font-size: 18px;
     /* max-width: 960px; */
     text-align: center;

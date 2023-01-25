@@ -2,19 +2,19 @@
 <html>
     <head>
         <title>Guess The Number</title>
-        <link rel="stylesheet" href="style.css">
-        <script src="script.js" defer></script>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js" defer></script>
     </head>
     <body>
         <div id="bb">
             <h1 id="top">Guess The Number!</h1>
-            <form method="post"> 
+            <!-- <form>  -->
                 <label for="guess">Guess:</label>
                 <input type="text" name="guess" id="guess" placeholder="Enter a number between 1-100">
-                <input type="button" onclick="guessNumber()" value="Go!">
+                <button onclick="guessNumber()">Go!</button>
                 <p id="output"></p>
         </div>
-        </form>
+        <!-- </form> -->
     </body>
 </html>
 
