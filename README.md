@@ -1,4 +1,5 @@
-Example: If the random number is '31' 
+<h2>Example: If the random number is '31' 
+  
 Guess the number  (1-100) : 12  
 Guess the number  (1-100) : 23  
 Guess the number  (1-100) : 31  
